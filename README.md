@@ -23,3 +23,5 @@ main function does Ultrasonic sensor(distance).
 ★ Simple Logic
 
 
+<img width="1000" height="500" src="https://user-images.githubusercontent.com/54919474/71012979-4a311200-2133-11ea-9ea9-70e7bce09191.png">
+
