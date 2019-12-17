@@ -17,6 +17,9 @@ main function does Ultrasonic sensor(distance).
 -Circuit
 
 
-<img width="800" height="400" src="https://user-images.githubusercontent.com/54919474/71011283-8747d500-2130-11ea-8ba1-0c20c41b8415.png">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/54919474/71011527-e86fa880-2130-11ea-9c7f-332f3bc9fb2d.png">
+
+
+★ Simple Logic
 
 
